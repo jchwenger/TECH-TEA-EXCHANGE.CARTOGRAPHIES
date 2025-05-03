@@ -4,4 +4,6 @@ This is an example post for cartographies.
 
 Here is a [cheatsheet about Markdown](https://www.markdownguide.org/cheat-sheet/).
 
-![Just a test image from the Tate](image/test-image.jpg).
+![Cover site for the Tech, Tea + Tate](images/tech-tea-exchange.png)
+
+([source](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams/tech-tea--exchange))
